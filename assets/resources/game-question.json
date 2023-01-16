@@ -1,0 +1,62 @@
+{
+    "q1":{
+            "q":"Trung Quốc là nước lớn nhất thế giới?",
+            "a":false
+         },
+         "q2":{
+            "q":"www viết tắt của world wide web?",
+            "a":true
+         },
+         "q3":{
+            "q":"Ốc anh vũ có từ trước thời của khủng long?",
+            "a":true
+         },
+         "q4":{
+            "q":"Quả táo chỉ có màu đỏ?",
+            "a":false
+         },
+         "q5":{
+            "q":"Cu ba nổi tiếng thế giới về xì gà?",
+            "a":true
+         },
+         "q6":{
+            "q":"Shinkansen là tên gọi tàu cao tốc ở Nhật",
+            "a":true
+         },
+         "q7":{
+            "q":"Hololulu là thủ phủ của bang Hawaii",
+            "a":true
+         },
+         "q8":{
+            "q":"Bollywood ở Hoa Kỳ?",
+            "a":false
+         },
+         "q9":{
+            "q":"Sao Mộc là hành tinh gần trái đất nhất?",
+            "a":false
+         },
+         "q10":{
+            "q":"Giải bóng đá La liga ở Tây Ban Nha",
+            "a":true
+         },
+         "q11":{
+            "q":"Quỳ tím cho vào Axit sẽ có màu đỏ",
+            "a":true
+         },
+         "q12":{
+            "q":"Sân vận động SoFi Stadium ở Los Angeles?",
+            "a":true
+         },
+         "q13":{
+            "q":"Kim chi là món truyền thống của Triều Tiên?",
+            "a":true
+         },
+         "q14":{
+            "q":"Java là hòn đảo lớn nhất thế giới?",
+            "a":false
+         },
+         "q15":{
+            "q":"Mozart là nhạc sĩ người Hà Lan?",
+            "a":false
+         }
+   }
